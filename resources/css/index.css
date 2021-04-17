@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+
 }
 body {
   margin: 0;
@@ -7,6 +8,7 @@ body {
   background-color: whitesmoke;
   font-family: "Roboto", sans-serif;
   padding-bottom: 1em;
+  background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);;
 }
 
 .navbar {
